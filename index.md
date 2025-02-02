@@ -12,6 +12,7 @@ Hello! I am a Biostatistics PhD student in the Department of Statistics and Data
 In my free time I love to ... I'm a big fan of ... While not in the classroom or doing research, I like to ...
 My favourite foods are ... -->
 <!-- My research interests include... -->
+<!-- I need to add the professional memberships section to my CV! -->
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
