@@ -10,7 +10,7 @@ In my free time I love to ... I'm a big fan of ... While not in the classroom or
 My favourite foods are ...
 
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CVoct24.pdf)<br/>
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
 ---
@@ -36,7 +36,7 @@ My favourite foods are ...
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CVoct24.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/cjd04">GitHub</a></li>
           <li><a href="https://bsky.app/profile/cjd04.bsky.social">Bluesky (@cjd04.bsky.social)</a></li>
       </ul>
