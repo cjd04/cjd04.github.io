@@ -4,13 +4,16 @@ title: Research
 description: Research
 ---
 
+#### I am currently working on my PhD candidacy exam, lovingly known as "the supertest".
+*Once I have finished the supertest, I will publish it here, and be able to carry on my research with my advisors Dr. MinJae Lee and Dr. Sy Han Chiou. We are currently working on methods in left-censored data in crossover studies and also joint modelling of survival and longitudinal data.*
 
 
-#### <u>Insert title of paper here</u>
-*Describe paper here. "In this paper we ... "*
+<!--- #### <u>Insert title of paper here</u> --->
+<!--- *Describe paper here. "In this paper we ... "* --->
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+<!--- [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf) --->
 
+<!--- Include note on super test along with a summary, maybe just copy and paste the abstract? --->
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
