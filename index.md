@@ -2,12 +2,15 @@
 layout: frontpage
 title: Callum Doyle
 description: Callum Doyle is a Biostatistics PhD candidate at Southern Methodist University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+keywords: Biostatistics, statistics, survival analysis, mathematics... etc.
 ---
 
-CD is a PhD candidate at Southern Methodist University. Research interests include ... . 
+Hello! I am a Biostatistics PhD candidate at Southern Methodist University. Research interests include ... .
+In my free time I love to ... I'm a big fan of ... While not in the classroom or doing research, I like to ...
+My favourite foods are ...
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CVoct24.pdf)<br/>
 
 
 ---
