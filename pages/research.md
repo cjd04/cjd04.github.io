@@ -5,7 +5,7 @@ description: Research
 ---
 
 #### I am currently working on my PhD candidacy exam, lovingly known as "the supertest".
-*Once I have finished the supertest, I will publish it here, and be able to carry on my research with my advisors Dr. MinJae Lee and Dr. Sy Han Chiou. We are currently working on methods in left-censored data in crossover studies and also joint modelling of survival and longitudinal data.*
+*Once I have finished the supertest, I will publish it here. Then I will be able to continue research with my advisors Dr. MinJae Lee and Dr. Sy Han Chiou, which includes developing methods in left-censored data in crossover studies and joint modelling of survival and longitudinal data.*
 
 
 <!--- #### <u>Insert title of paper here</u> --->
