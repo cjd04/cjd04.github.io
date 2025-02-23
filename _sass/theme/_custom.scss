@@ -1,5 +1,5 @@
 /* ==========================================================================
-   DEFAULT THEME
+   CUSTOM THEME (BUILT FROM DEFAULT
    ========================================================================== */
 
 /* Color codes used for the theme */
@@ -8,7 +8,8 @@ $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
-$smu-blue		    : #354CA1;
+$smu-blue		    : #CC0035;
+
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
@@ -43,6 +44,6 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color                 : #{$dark-gray};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
-    --smu-blue				: #354CA1;
+    --smu-blue				: #CC0035;
     --global-masthead-bg		: var(--smu-blue);
 }

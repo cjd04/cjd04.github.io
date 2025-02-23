@@ -1,5 +1,5 @@
 /* ==========================================================================
-   MASTHEAD
+   MASTHEAD (Default)
    ========================================================================== */
 
 .masthead {
@@ -37,7 +37,6 @@
 }
 
 .masthead__menu {
-
   ul {
     margin: 0;
     padding: 0;
@@ -47,7 +46,6 @@
 }
 
 .masthead__menu-item {
-  background-color: var(--global-bg-color);
   display: block;
   list-style-type: none;
   white-space: nowrap;
@@ -55,5 +53,35 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+  }
+}
+
+/* ==========================================================================
+   MASTHEAD OVERRIDES: SMU Blue Background + White Text
+   ========================================================================== */
+
+/* 1) Make the masthead & site-nav backgrounds SMU blue */
+.masthead,
+.site-nav,
+.masthead__menu-item {
+  background-color: var(--smu-blue) !important; /* #CC0035 */
+}
+
+
+.masthead__menu,
+.masthead__inner-wrap,
+.greedy-nav {
+  background-color: transparent !important;
+}
+
+
+/* 2) Make the links white */
+.masthead a,
+.site-nav a {
+  color: #fff !important;
+  text-decoration: none;
+
+  &:hover {
+    color: #f0f0f0 !important;
   }
 }
