@@ -12,7 +12,7 @@ Hello! I am a Biostatistics PhD student in the Department of Statistics and Data
 Research
 ======
 I am currently working on my PhD candidacy exam, a.k.a. "the supertest".
-My current research includes developing methods in left-censored data in crossover studies and joint modelling of survival and longitudinal data, working under the direction of MinJae Lee and Sy Han Chiou.
+My current research includes developing methods for handling left-censored data in crossover studies and joint modelling of survival and longitudinal data, under the direction of MinJae Lee and Sy Han Chiou.
 Once my supertest is finished, I'll pay more attention to updating this website. Placeholder things will remain until I've had enough practice and decide to get rid of them.
 
 Getting started
