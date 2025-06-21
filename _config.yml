@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Callum Doyle"
 title_separator          : "-"
 name                     : &name "Callum Doyle"
-description              : &description "PhD Student in Biostatistics @ Southern Methodist University"
+description              : &description "PhD Candidate in Biostatistics @ Southern Methodist University"
 url                      : https://cjd04.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cjd04/cjd04.github.io"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Biostatistics @ Southern Methodist University"
   location         : "Dallas, Texas"
-  employer         : #"Red Brick University"
+  employer         : #"Southern Methodist University / University of Texas Southwestern Medical Centre"
   uri              : # URL
   email            : #"none@example.org" 
 
