@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 Hello! I am a Biostatistics PhD candidate in the collaborative program between the Department of Statistics and Data Science at Southern Methodist University and University of Texas Southwestern Medical Center at Dallas (UTSW). 
-This personal website is currently under construction, come back later when (hopefully) it's complete!
+Prior to my studies at SMU, I completed a M.S in Mathematics at University of North Texas, worked as an Analyst at Gamesys Group in London, UK, and earned my B.Sc. in Mathematics, with a minor in Computer Science, from Alderson Broaddus University in West Virginia--where I was also a student-athlete on the men's soccer team.
+This website is currently under construction--please come back soon for updates!
 
 Research
 ======
-My current research includes developing methods for handling left-censored data in crossover studies and joint modelling of survival and longitudinal data, under the direction of Sy Han Chiou (SMU), MinJae Lee (UTSW) and Haekyung Jeon-Slaughter (UTSW).
+My current research focuses on developing statistical methods for handling left-censored data in crossover studies, modelling recurrent event survival data, and joint modelling of survival and longitudinal data, under the supervision of Sy Han Chiou (SMU), MinJae Lee (UTSW) and Haekyung Jeon-Slaughter (UTSW).
 
 
 <!--- Getting started
