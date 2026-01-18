@@ -20,8 +20,8 @@ B.S. Mathematics, Alderson Broaddus University
 
 BIOGRAPHY
 Callum Doyle is a PhD student in the Biostatistics program. 
-His current research focuses on developing a risk score model to predict the 10-year risk of cardiovascular events among women in Veteran's affairs (VA). 
-He is also interested in developing methods to handle complex data structures in a recurrent events setting.
+His current research focuses on developing a risk score model to predict the 10-year risk of cardiovascular events among women in the Veterans affairs (VA) healthcare system. 
+He is also interested in developing statistical methods to handle complex data structures in recurrent events studies and to address left-censored data in crossover designs.
 
 RESEARCH INTERESTS
 - Survival analysis
@@ -33,7 +33,8 @@ RESEARCH INTERESTS
 
 Research
 ======
-My current research focuses on developing statistical methods for handling left-censored data in crossover studies, modelling recurrent event survival data, and joint modelling of survival and longitudinal data, under the supervision of Sy Han Chiou (SMU), MinJae Lee (UTSW) and Haekyung Jeon-Slaughter (UTSW).
+My current research focuses on developing a risk score to predict the 10-year risk of cardiovascular events among women in the Veterans affairs (VA) healthcare system. 
+I am also interested in developing statistical methods to handle complex data structures in recurrent events studies and to address left-censored data in crossover designs.
 
 
 <!--- Getting started
