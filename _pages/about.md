@@ -8,34 +8,16 @@ redirect_from:
 ---
 
 Hello! I am a Biostatistics PhD candidate in the collaborative program between the Department of Statistics and Data Science at Southern Methodist University and University of Texas Southwestern Medical Center at Dallas (UTSW). 
-Prior to my studies at SMU, I completed an M.S in Mathematics at University of North Texas, worked as an Analyst at Gamesys Group in London, UK, and earned my B.Sc. in Mathematics, with a minor in Computer Science, from Alderson Broaddus University in West Virginia--where I was also a student-athlete on the men's soccer team.
-This website is currently under construction... please come back soon for updates!
+Prior to my studies at SMU, I completed an M.S in Mathematics at University of North Texas, worked as an Analyst at Gamesys Group in London, UK, and earned my B.Sc. in Mathematics, with a minor in Computer Science, from Alderson Broaddus University in West Virginia--where I was also a student-athlete on the men's soccer team. 
+<!--- I was born in London and lived there for my whole life before  --> 
 
-<!---
-Bio for SMU graduate students page: 
-EDUCATION
-M.S. Statistical Science, Southern Methodist University
-M.S. Mathematics, University of North Texas
-B.S. Mathematics, Alderson Broaddus University
-
-BIOGRAPHY
-Callum Doyle is a PhD student in the Biostatistics program. 
-His current research focuses on developing a risk score model to predict the 10-year risk of cardiovascular events among women in the Veterans affairs (VA) healthcare system. 
-He is also interested in developing statistical methods to handle complex data structures in recurrent events studies and to address left-censored data in crossover designs.
-
-RESEARCH INTERESTS
-- Survival analysis
-- Missing data
-- Joint modelling 
-- Public health applications
-
--->
 
 Research
 ======
-My current research focuses on developing a risk score to predict the 10-year risk of cardiovascular events among women in the Veterans affairs (VA) healthcare system. 
-I am also interested in developing statistical methods to handle complex data structures in recurrent events studies and to address left-censored data in crossover designs.
+<!-- My current research focuses on developing a risk score to predict the 10-year risk of cardiovascular events among women in the Veterans Affairs (VA) healthcare system. 
+I am also interested in developing statistical methods to robustly address left-censored data in crossover designs and handle complex data structures in recurrent events studies. -->
 
+My current research focuses on developing statistical methods to address left-censored data in crossover designs and on predicting the 10-year risk of cardiovascular events among women in the Veterans Affairs (VA) healthcare system. I am also interested in methods for handling complex data structures in recurrent events studies.
 
 <!--- Getting started
 ======
