@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hello! I am a Biostatistics PhD candidate in the collaborative program between the Department of Statistics and Data Science at Southern Methodist University and University of Texas Southwestern Medical Center at Dallas (UTSW). 
-Prior to my studies at SMU, I completed an M.S in Mathematics at University of North Texas, worked as an Analyst at Gamesys Group in London, UK, and earned my B.Sc. in Mathematics, with a minor in Computer Science, from Alderson Broaddus University in West Virginia--where I was also a student-athlete on the men's soccer team. 
+Prior to my studies at SMU, I completed an M.S in Mathematics at University of North Texas, worked as an Analyst at Gamesys Group in London, UK, and earned my B.Sc. in Mathematics, with a minor in Computer Science, from Alderson Broaddus University in West Virginia--where I was a student-athlete for and captained the men's soccer team. 
 <!--- I was born in London and lived there for my whole life before  --> 
 
 
