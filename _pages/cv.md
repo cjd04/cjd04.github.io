@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/CV-jan-26.pdf
+permalink: /files/CV.pdf
 author_profile: true
 redirect_from:
   - /cv/
-  - /files/CV-jan-26.pdf
+  - /files/CV.pdf
 ---
